@@ -1,3 +1,2 @@
 1.0.5
 mkawserm/2048
-https://github.com/mkawserm/2048/releases/download/1.0.5/2048.qap
