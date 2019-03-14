@@ -1,0 +1,3 @@
+1.0.0
+mkawserm/vLibQB
+https://github.com/mkawserm/vLibQB/releases/download/1.0.0/vLibQB.qap
